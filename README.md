@@ -1,2 +1,4 @@
 # hawaii-google-map-reviews-analysis
-dsc 80 final project
+
+
+Analysis of Hawaii Google Map Reviews
